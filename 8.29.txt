@@ -1,4 +1,3 @@
-MBC,rtmp://119.202.61.202:1935/live/livetv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 YTN,rtmp://edge1.everyon.tv/etv1sb/phd20
 NEWS,rtmp://edge2.everyon.tv:1935/etv2/phd133
