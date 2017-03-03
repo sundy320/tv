@@ -1,0 +1,15 @@
+MBC,rtmp://119.202.61.202:1935/live/livetv
+SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
+YTN,rtmp://edge1.everyon.tv/etv1sb/phd20
+NEWS,rtmp://edge2.everyon.tv:1935/etv2/phd133
+children,rtmp://edge1.everyon.tv/etv1sb/phd5
+MBN,rtmp://edge2.everyon.tv:1935/etv2/phd17
+JTBC,rtmp://edge2.everyon.tv:1935/etv2sb/phd1270
+JTBC-FOX,rtmp://edge2.everyon.tv:1935/etv2sb/phd1272
+Channel-A,rtmp://edge2.everyon.tv:1935/etv2/phd251
+TV-chosen,rtmp://edge2.everyon.tv:80/etv2/phd341
+TV-chosen2,rtmp://live.chosun.gscdn.com/live/tvchosun1.stream
+YBCYS,http://mlive.iybtv.com:8012/kmZk2fv/500/live.m3u8
+YBTV-1,http://mlive.iybtv.com:8012/MJqQNlZ/500/live.m3u8
+YBTV-2,http://mlive.iybtv.com:8012/DzyEoXu/500/live.m3u8
+ANTU,rtmp://122.136.135.52/live/live1
