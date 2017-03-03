@@ -12,4 +12,5 @@ TV-chosen2,rtmp://live.chosun.gscdn.com/live/tvchosun1.stream
 YBCYS,http://mlive.iybtv.com:8012/kmZk2fv/500/live.m3u8
 YBTV-1,http://mlive.iybtv.com:8012/MJqQNlZ/500/live.m3u8
 YBTV-2,http://mlive.iybtv.com:8012/DzyEoXu/500/live.m3u8
-ANTU,rtmp://122.136.135.52/live/live1
+ANTU,rtmp://218.62.89.202/live/live1
+YJTV,rtmp://222.161.137.149/livepkgr/livestream2
