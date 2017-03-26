@@ -1,5 +1,5 @@
 韩MBC,p2p://moalive.badatv1688.com:9906/587b7dbc0006d6d9bce06d663c742190&link=moalive.badatv1688.com:9906
-韩KBS1,p2p://moalive.badatv1688.com:9906/587b7dbc000db4adbce06f2a18a80b43
+韩KBS1,p2p://23.237.32.2:36050/587b7dbc000db4adbce06f2a18a80b43&link=moalive.badatv1688.com:9906
 MBC,rtmp://119.202.61.202:1935/live/livetv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 YTN,rtmp://edge1.everyon.tv/etv1sb/phd20
