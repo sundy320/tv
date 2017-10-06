@@ -1,5 +1,6 @@
 KBS2,http://pull-g.kktv8.com/livekktv/109896041.flv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
+MBC,http://222.113.53.4:80/chmbctv
 YTN,rtmp://edge1.everyon.tv/etv1sb/phd20
 NEWS,rtmp://edge2.everyon.tv:1935/etv2/phd133
 MBN,rtmp://edge2.everyon.tv:1935/etv2/phd17
