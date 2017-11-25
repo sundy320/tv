@@ -1,6 +1,6 @@
-KBS2,http://pull-g.kktv8.com/livekktv/109896041.flv
+MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
+SBS,http://1.234.61.44/sbsch6pc/_definst_/sbsch62.stream/chunklist_w640512147.m3u8
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-MBC,http://222.113.53.4:80/chmbctv
 YTN,http://edge2.everyon.tv/etv2sb/phd20/chunklist_w1331079998.m3u8
 Channel-A,http://edge2.everyon.tv/etv2sb/phd251/chunklist_w1690982685.m3u8
 TV-chosen,http://edge1.everyon.tv/etv1sb/phd341/playlist.m3u8
