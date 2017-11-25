@@ -1,5 +1,6 @@
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
 MBC2,rtmp://211.117.193.120:1935/live/stream
+KBS1,rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/1tv_home.stream?id=2101&si=6&secure=NGQyYWZkOThjMzU4NmNkYjFhYjNmMjY5YmEzMzk4N2E1ZGRiYTg3ZDNlZjU3MmQ1ODczYWI0NDgyNzQ2NjU2N2YxYTM0OGIzNDM5MzFjMTkyMzNlNTc3M2U4YjFlMjg3YjhjYjVlNDNjZDA5NWQwMGIyMGViMzcyN2ExNTg3OGZlYzMwNzAzMWY2MWUwZDVjMTlhODU2.NjEzMTMxYzIyM2Q5OWMzYTIzYjA5YTc3ODRjZDE3NzlmN2U5OTYwYzg2MGRkZDY2ZWMyYWExNzdiN2ZkNGQzZDg4NzY1YzBmZTIzNGJlMWY3YTU2ZWIxMmRmYWRkY2Ri.ODE5MTU2YzQ1Zjk5NjM4NzQ1YjU5MzQ2NTE2MmQ2NmNhYzZjNTg2M2JjZmY3OWU3MmUzNTJiYjkwMw==
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 YTN,http://edge2.everyon.tv/etv2sb/phd20/chunklist_w1331079998.m3u8
 Channel-A,http://edge2.everyon.tv/etv2sb/phd251/chunklist_w1690982685.m3u8
