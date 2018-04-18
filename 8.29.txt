@@ -6,6 +6,6 @@ TV-chosen,http://edge1.everyon.tv/etv1sb/phd341/playlist.m3u8
 NEWS,http://edge2.everyon.tv/etv2/phd133/chunklist_w1055517731.m3u8
 MBN,http://edge2.everyon.tv/etv2sb/phd17/chunklist_w82430738.m3u8
 Kids,rtmp://edge1.everyon.tv/etv1/phd169
-YBCYS,rtmp://plive.iybtv.com/tslsChannelLive/kmZk2fv/live
-YBTV-1,rtmp://plive.iybtv.com/tslsChannelLive/MJqQNlZ/live
-YBTV-2,rtmp://plive.iybtv.com/tslsChannelLive/DzyEoXu/live
+YBCYS,http://live.ybtvyun.com/video/s10006-cys/index.m3u8
+YBTV-1,http://live.ybtvyun.com/video/s10006-ybtv1/index.m3u8
+YBTV-2,http://live.ybtvyun.com/video/s10006-ybtv2/index.m3u8
