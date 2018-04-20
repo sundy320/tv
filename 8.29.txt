@@ -1,3 +1,5 @@
+KBS1,rtmp://112.175.138.137:1935/1tv/_definst_/1tv_5.stream
+KBS2,rtmp://112.175.138.137:1935/2tv/_definst_/2tv_5.stream
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 YTN,http://edge2.everyon.tv/etv2sb/phd20/chunklist_w1331079998.m3u8
