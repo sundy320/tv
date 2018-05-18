@@ -6,8 +6,7 @@ YTN,http://edge2.everyon.tv/etv2sb/phd20/chunklist_w1331079998.m3u8
 Channel-A,http://edge1.everyon.tv/etv1sb/phd251/playlist.m3u8
 TV-chosen,http://edge1.everyon.tv/etv1sb/phd341/playlist.m3u8
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/chunklist_w45775404.m3u8
-MBN,http://edge1.everyon.tv/etv1/phd17/chunklist_w1627416222.m3u8
 Kids,rtmp://edge1.everyon.tv/etv1/phd169
 CYS,http://live.ybtvyun.com/video/s10016-cys-sd/index.m3u8
-YBTV1,http://otherareasstreammlive.iybtv.com/video/l1381l0D10OO11l211l1l/index.m3u8
+YBTV1,http://live.ybtvyun.com/video/s10016-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
