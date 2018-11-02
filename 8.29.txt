@@ -4,14 +4,10 @@ KBS2,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1sa
 #EXTINF:-1
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
-
 TV-chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
-
 EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 #EXTINF:-1
-
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
