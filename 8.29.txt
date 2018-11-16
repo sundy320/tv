@@ -4,7 +4,7 @@ KBS2,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1sa
 #EXTINF:-1
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-SBS,http://1.234.61.107/sbsch6/_definst_/sbsch60.stream/chunklist_w135161936.m3u8
+SBS,http://1.234.61.107/sbsch6/_definst_/sbsch60.stream/chunklist_w135161936.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDIzNjcxMTAsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYwLnN0cmVhbSIsImR1cmF0aW9uIjoxODB9.4TELl8cPCEDxzJM8g73eErBfdE2nX1BPmFwVz15jNbE
 SBS-PLUS,http://222.239.240.52/sbspluspc/_definst_/sbsplus0.stream/chunklist_w259759925.m3u8
 SBS-FUN,http://1.234.61.104/sbsetvpc/_definst_/sbsetv0.stream/chunklist_w1774128392.m3u8
 SBS-CNBC,http://1.234.61.108/sbscnbc/_definst_/sbscnbc0.stream/chunklist_w757705132.m3u8
