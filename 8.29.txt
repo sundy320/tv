@@ -21,6 +21,7 @@ SBS-CNBC,http://live.sbs.co.kr/sbscnbc/_definst_/sbscnbc0.stream/chunklist_w7577
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
 TV-chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
 KTV-HD,rtmp://218.38.152.31:1935/klive/klive.stream
+KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 film,http://123.108.164.71/etv2/phd847/chunklist_w1522535066.m3u8
 EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 #EXTINF:-1
