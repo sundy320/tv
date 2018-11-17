@@ -13,11 +13,7 @@ kbs-w,http://hls.live.kbskme.gscdn.com/kbsn_wtv/_definst_/kbsn_wtv_4.stream/play
 kbs-24,http://hls.live.kbskme.gscdn.com/news24/_definst_/news24_800.stream/chunklist_w1465694932.m3u8?tid=23df84ad809ff3e4aa1028a30aeb099d
 kbs-joy,http://hls.live.kbskme.gscdn.com/kbsn_joy/_definst_/smil:kbsn_joy_adp.smil/playlist.m3u8?tid=e9ad9596ecb76649afb7b8bd9e4fbd93
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
-SBS,http://live.sbs.co.kr/sbsch6/_definst_/sbsch60.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDIzNzQzMzYsInBhdGgiOiIvc2JzY2g2L19kZWZpbnN0Xy9zYnNjaDYwLnN0cmVhbSIsImR1cmF0aW9uIjoxODB9.XTesSwr9rxWtd6Cb36cjaN48Hf0rJDEAbO-bqCKgVFY
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-SBS-PLUS,http://live.sbs.co.kr/sbspluspc/_definst_/sbsplus0.stream/chunklist_w259759925.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDIzNzM1NTEsInBhdGgiOiIvc2JzcGx1c3BjL19kZWZpbnN0Xy9zYnNwbHVzMC5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwfQ.oZgixxFqsC_ehRaXrydjtOf9ELYiP5ZhyCZrG2mF42k
-SBS-FUN,http://live.sbs.co.kr/sbsetvpc/_definst_/sbsetv0.stream/chunklist_w1774128392.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDIzNzM2MDksInBhdGgiOiIvc2JzZXR2cGMvX2RlZmluc3RfL3Nic2V0djAuc3RyZWFtIiwiZHVyYXRpb24iOjE4MH0.vGgAuDqm25pL16pZ8z3D6aACPDEg4_fFEmeAahgqqtk
-SBS-CNBC,http://live.sbs.co.kr/sbscnbc/_definst_/sbscnbc0.stream/chunklist_w757705132.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDIzNzM2NTIsInBhdGgiOiIvc2JzY25iYy9fZGVmaW5zdF8vc2JzY25iYzAuc3RyZWFtIiwiZHVyYXRpb24iOjE4MH0.l2TS0aVAio8bp_WsDOPaghwPR_y8smOS2fTra3FUHco
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
 TV-chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
 KTV-HD,rtmp://218.38.152.31:1935/klive/klive.stream
