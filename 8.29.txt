@@ -14,7 +14,6 @@ kbs-24,http://hls.live.kbskme.gscdn.com/news24/_definst_/news24_800.stream/chunk
 kbs-joy,http://hls.live.kbskme.gscdn.com/kbsn_joy/_definst_/smil:kbsn_joy_adp.smil/playlist.m3u8?tid=e9ad9596ecb76649afb7b8bd9e4fbd93
 MBC,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
 SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
-CHANNEL-A，http://cht02-streamlive.ktics.co.kr/cht02/cefb8f6966ba997727b59e2dca02578b/s5.stream/playlist.m3u8
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
 TV-chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
 KTV-HD,rtmp://218.38.152.31:1935/klive/klive.stream
