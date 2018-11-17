@@ -17,7 +17,7 @@ kbs-world,http://hls.live.kbskme.gscdn.com/www_kbs_worldtv/_definst_/kbs_worldtv
 kbsn-life,http://hls.live.kbskme.gscdn.com/kbsn_prime/_definst_/smil:kbsn_prime_adp.smil/chunklist_w138286227_b180000.m3u8?tid=241e359843f52f497bbe4e90551fc71a
 kbs-kids,http://hls.live.kbskme.gscdn.com/kbsn_kids/_definst_/kbsn_kids_4.stream/chunklist_w879772415.m3u8?tid=9a2ad4ac155984ed7d019dbd52ac0481
 kbs-w,http://hls.live.kbskme.gscdn.com/kbsn_wtv/_definst_/kbsn_wtv_4.stream/playlist.m3u8?tid=ab8daecf2c252ca22432b9b79fd2d127
-kbs-24,http://hls.live.kbskme.gscdn.com/news24/_definst_/news24_800.stream/chunklist_w1465694932.m3u8?tid=23df84ad809ff3e4aa1028a30aeb099d
+kbs-24,rtmp://live.kbskme.gscdn.com/news24/_definst_/news24_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxY2I5OWY2MjliNjc0NjgxN2U0NWQzMmFkMTIyYjg0ZWRjNjE5NGFhMWQzODczMjA4ZjVkYmZmZjNhZTAxNjMxN2NmNGJiMmQzMWQ3YmUzYjIxY2VjM2M3ODI1YjFmYmIyNmIyZTQ4Y2UyMWI0NTY5MDM4ZmQxZGFmMzc5YzJlYzkwYzYxZDg1NjcwMGRiNmZiNDk1NTNmMDNiZjAzZDUwMTk0ZTU4ZDY4NmJkZTViOWQ4NWE5MjZjMmU0ODBiM2I0MjdiNmMzMGRhNzQ5M2Y2OTk3YTQ4YjQ1YzIyZmI2NjIyMDIzMDdiMDRlZGZiZDEzODU5ODU4MGM4OTJhM2I5MQ==&csu=false
 kbs-joy,http://hls.live.kbskme.gscdn.com/kbsn_joy/_definst_/smil:kbsn_joy_adp.smil/playlist.m3u8?tid=e9ad9596ecb76649afb7b8bd9e4fbd93
 EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 EBS-English,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
