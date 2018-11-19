@@ -5,16 +5,15 @@ SBS-G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 NEWS,http://edge2.everyon.tv/etv2sb/phd133/playlist.m3u8
 TV-chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
 kbs-24,rtmp://live.kbskme.gscdn.com/news24/_definst_/news24_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxY2I5OWY2MjliNjc0NjgxN2U0NWQzMmFkMTIyYjg0ZWRjNjE5NGFhMWQzODczMjA4ZjVkYmZmZjNhZTAxNjMxN2NmNGJiMmQzMWQ3YmUzYjIxY2VjM2M3ODI1YjFmYmIyNmIyZTQ4Y2UyMWI0NTY5MDM4ZmQxZGFmMzc5YzJlYzkwYzYxZDg1NjcwMGRiNmZiNDk1NTNmMDNiZjAzZDUwMTk0ZTU4ZDY4NmJkZTViOWQ4NWE5MjZjMmU0ODBiM2I0MjdiNmMzMGRhNzQ5M2Y2OTk3YTQ4YjQ1YzIyZmI2NjIyMDIzMDdiMDRlZGZiZDEzODU5ODU4MGM4OTJhM2I5MQ==&csu=false
-KTV-HD,rtmp://218.38.152.31:1935/klive/klive.stream
 film,http://123.108.164.71/etv2/phd847/chunklist_w1522535066.m3u8
 EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
 EBS-English,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
+KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 KBS1,rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
 #EXTINF:-1
 KBS2,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
 #EXTINF:-1
-KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
