@@ -9,6 +9,7 @@ film,http://123.108.164.71/etv2/phd847/chunklist_w1522535066.m3u8
 EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
 EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 EBS-English,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+MBN,http://cht03-streamlive.ktics.co.kr/cht03/08314a6087cd20425a90fb0d461fc458/s3.stream/playlist.m3u8
 OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
 KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 GMTV,http://chg04-streamlive.ktics.co.kr/chg04/1d36760b745b88d2920f1234b639f94a/s4.stream/playlist.m3u8
