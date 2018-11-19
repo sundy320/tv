@@ -14,6 +14,7 @@ OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
 KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 GMTV,http://chg04-streamlive.ktics.co.kr/chg04/1d36760b745b88d2920f1234b639f94a/s4.stream/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist_w924330012.m3u8
+Arte,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 KBS1,rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
 #EXTINF:-1
 KBS2,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
