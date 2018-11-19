@@ -18,3 +18,5 @@ KBS2,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1sa
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
+ANTU1,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_200.m3u8
+ANTU2,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
