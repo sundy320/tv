@@ -2,6 +2,9 @@ KBS1,rtmp://live.kbskme.gscdn.com:1935/1tv/_definst_/1tv_5.streamnews24_home_800
 KBS2,rtmp://live.kbskme.gscdn.com:1935/2tv/_definst_/2tv_5.streamnews24_home_800.stream?id=2101&si=8&secure=MDRkMDc1OGYyMjc5MDJjYTBmZGFjYzRmNWVhMGYxMzg3MjdiYzZjODQ0NTI0YmEyOTg3YWNiZTQ4YzhhZDhlOWQyMDEyZmVlN2Y0NmY5OGQxNDYxOGNkYTdhNjJmYTA0NWQ1YTk4NjU0MTgyNDgyNDY1Y2ExNzhlOGZmOTU2ZGUxOWUyNDYyNmRiMjkxM2NmNGI0OWU1ZGY3MjQxNTI3OWQ5ODIzMmE5MzIzMTcwNjIxNjY1ZDQ4MWM3MjliZGIyNGU1NGJkZTk4MjQ3NmE0ODUzMDljMWYwNzYwMGE0MTg4ZDc5ZDU2MWI5YWZlYWI5MjQzNWVjNGFlOWQ3MWYzNzBmODVkN2JhYTQ3YjgxMGY0MmJlOGFhYjE0OWNmZGE1&csu=false
 MBC,rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxYzQ4NjhjNTFiNGYwNGM5MDYwNjI0ZDI1MWU0MzQ2NjY1NjRlNmI1MmViNGJkOWIzNWQ4N2JlODY4YTU3ZDk5NDEyMWIzZjUzMjkzZjI4YjZjYjhiZDdlMTRmYWIwODBjODY4ZDUxMzg4NTc3NzZiMTQyOTk0NDJlZWNjMDUyM2I3MmU3NzQxMGNkZjVjNmQ4NDBjNTFhNzBjMmE3ODg0ZTA3ZTIwZGYwYjRhODBlNDMxYTlmNzFmODhhYmVkY2U2MDBkYmIxZDIxOTYxZTA0ODZjMzQ4YjhkMGViMmIyNzg4MmVhMWM0MmY4MWI1OTVmY2VlM2QzOGRkMjcyYzg5ZDA2Y2RmNWNiN2QyMzYwNTg=&csu=false
 MBC-MP,rtmp://vod.mpmbc.co.kr:1935/live/encoder-tv
+kbs1,http://1.179.247.10:1935/krtv/kbs1_540/playlist.m3u8
+kbs2,http://1.179.247.10:1935/krtv/kbs2_540/playlist.m3u8
+mbc,http://1.179.247.10:1935/krtv/mbc_540/playlist.m3u8
 SBS,http://1.179.247.10:1935/krtv/sbs_540/playlist.m3u8
 G1-SBS,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
 TV_chosen,http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/chunklist.m3u8
