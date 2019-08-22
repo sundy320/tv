@@ -11,9 +11,7 @@ YTN,rtmp://main3.everyon.tv/etv/phd20
 MBN,rtmp://main3.everyon.tv/etv/phd17
 CHANNEL-A,rtmp://main4.everyon.tv/etv/phd251
 TV-CHOSUN,rtmp://main4.everyon.tv/etv/phd341
-EBS1,http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
-EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-EBS-English,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+EBS1,http://222.239.21.155/groundwavetablet500k/_definst_/tablet500k/chunklist_w1799302318.m3u8
 OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
 KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist_w924330012.m3u8
@@ -25,5 +23,4 @@ KBS2-N,rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
-ANTU1,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_200.m3u8
-ANTU2,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
+ANTU,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
