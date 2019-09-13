@@ -13,7 +13,7 @@ CHANNEL-A,rtmp://main4.everyon.tv/etv/phd251
 TV-CHOSUN,rtmp://main4.everyon.tv/etv/phd341
 EBS1,http://222.239.21.155/groundwavetablet500k/_definst_/tablet500k/chunklist_w1799302318.m3u8
 OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
-KTV,http://218.38.152.69:1935/da_live/72136989/mp4%3Ach001/playlist.m3u8
+KTV,rtmp://218.38.152.31:1935/klive/klive.stream
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist_w924330012.m3u8
 Arte,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
