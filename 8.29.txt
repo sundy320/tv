@@ -1,5 +1,3 @@
-KBS1-HD,http://1tv.gscdn.kbs.co.kr/1tv_hd_1.m3u8?Expires=1580312097&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzF0di5nc2Nkbi5rYnMuY28ua3IvMXR2X2hkXzEubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4MDMxMjA5N319fV19&Signature=H9qjENXwkZ-VbMhXdyzhTvibUumelQiqU7RylPqVC6doUZblqSNkhDb3bZFSoGo1Te0x-n15vMBW1SfAFgl67hueYtN-pfGejoXyQWR~su-9QkoSaUcc23inN9JwnBC-tFXBGgGFgUZA0f~MZwOy0q1GB6Hxr7m8POKJjnqfR8rXqoT94PxTBZrKO05RzhNEDM8cxGQhq5WFbg0ZnU12M1krY80Z5~e2BUkdmtV5v47EYx88lEwL3YniFOso9aIkh906LmBGyPZRIUjnyJ91pRuQm8qRt3wQDVrLvHiZN6tcUUu~ovBHPYXSxVLrboBM2qGB3XHBk59eBhxUtwQGWA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-KBS2-HD,http://2tv.gscdn.kbs.co.kr/2tv_hd_1.m3u8?Expires=1579529762&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2X2hkXzEubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU3OTUyOTc2Mn19fV19&Signature=iWMAjCY5Dp9U8Kklkf~NNr6BEywvgYwjoEbOONytlt8nrVMHJ6lWq40KfoIaZTrbIxCsroo~NYUXt3QMd3lJzEzAYkQ1jxIyL6sNuHURYwK5MozcU-bPX9b4-riToOfvGdxgiCdscIBRdUzz0snmPpi6pshwX6sWLM48RR8YfT6oKsy29gJJFgSPNG2H46WNnzdPpFUki63TXuQqrWB39jBV11w1jiNHStE29i10uk2BBS3AMLj8VImEyxWh-wXdyd2dfqnPqtoLEti~Jrj27Fa~uBZt4uIuHklJB8Sl~GzU0qOjFIzkUdxlgllxb6Smbf7j6xgIBviuIiqg0~al4g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 KBS1-hd,http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
 KBS2-hd,http://23.237.112.138:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
 MBC-HD,http://23.237.112.138:9083/live/lmgr218-live1/yo/Kz/yoKzy5jIzhPSc34OXb26Hg==/live.m3u8
@@ -11,7 +9,6 @@ YTN-KOREAN,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45
 YTN-KOREAN-HD,http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 YTN-SCIENCE,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 TV-CHOSUN,http://23.237.112.138:9083/live/lmgr218-live1/uN/RW/uNRWY94bN9uq-H4U6-AdGA==/live.m3u8
-MBN,http://222.239.124.7/mbn-auth1-pc/_definst_/600k/chunklist_w155606911.m3u8
 TVN,http://23.237.112.138:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
 MNET,http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
 OCN,http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
@@ -38,4 +35,4 @@ Arte,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 CYS,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10006-ybtv2-sd/index.m3u8
-ANTU,http://32004.hlsplay.aodianyun.com/guangdianyun_32004/tv_channel_199.m3u8
+ANTU,http://xinhualive.zhongguowangshi.com/zbcb/158098166371510.m3u8?auth_key=1582533847-0-0-ed3bf0665c5c8822d9a85405bda77a4d
