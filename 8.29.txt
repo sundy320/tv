@@ -18,6 +18,11 @@ OBS,rtmp://live.obs.co.kr/live/obs_back/myStream.sdp
 KTV,rtmp://218.38.152.31:1935/klive/klive.stream
 MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist_w924330012.m3u8
 Arte,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+TBS,http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+EBS-KIDS,http://110.10.122.10/ebsufamilypc/_definst_/familypc1m/chunklist.m3u8
+FTV,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
+TV WORK NET,rtmp://live.worktv.or.kr:1935/live/wowtvlive1.sdp
 CYS,http://live.ybtvyun.com/video/s10016-bd6e048a741f/index.m3u8
 YBTV1,http://live.ybtvyun.com/video/s10016-3f1f847a4c2d/index.m3u8
 YBTV2,http://live.ybtvyun.com/video/s10016-783d533b0361/index.m3u8
